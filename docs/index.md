@@ -4,4 +4,4 @@ This is the repo for The video notes for videos made on the [Ssali Jonathan](htt
 
 
 ## Topics
-- [Django Field-LookUp Reference](./docs/field-lookups.md)
+- [Django Field-LookUp Reference](./field-lookups.md)
