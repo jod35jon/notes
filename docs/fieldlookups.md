@@ -1,3 +1,11 @@
+# Field LookUps in Django
+
+In Django, field lookups are methods or operators that allow you to filter querysets based on the values of specific fields in your models. They provide a way to perform database queries that retrieve objects based on certain criteria.
+
+Field lookups are typically used in conjunction with Django's QuerySet API, which provides a powerful interface for interacting with the database. These lookups can be used in `filter()`, `exclude()`, and `get()` methods of a QuerySet to narrow down the results returned by the database.
+
+Here is a list of field lookups.
+
 | Lookup    |   Description                         |
 |-----------|---------------------------------------|
 | contains  |  Contains the phrase                       
